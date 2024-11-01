@@ -1,0 +1,32 @@
+->a language which instruct the computer to perform task in specific manner
+-> a language which is used to communicate with machines 
+-> there are different types of languages 1 procedure language 2 . functional language
+	
+->java introduction 
+	-> which is object oriented programming langue which is developed by jams goslng in 1991 but it officially released in 1995 by sun microsystems  the company handles upto 2010 then oracle corporation has take over now java is handle by oracle coprporation 
+	before java the name of language has oak.
+which is a flatform independent and portable once create run a ny where 
+	features :
+		1.javais simple language which is understands very well
+		2.it is robust language
+		3.java has very good memory management.
+		4.it is very secure.
+		5.it has seet of inbuilt libraries.
+java principles :
+1.multithreading
+2.automatic memory management
+3.security
+4.platofrm independent
+5.rubust
+
+jdk and jre :
+		jdk is for development purpose jdk provides jre and other softwares for development including compiler it is development purpose
+	jre ->jre is for running a progame and it provide necessary software ans set of libraries to jvm to perform operations 
+	jvm Archeitehture :
+		jvm has three catogiries 1.class loader subsystem 2.runtime data 3.execution engine
+		1.class loader which has three sub types present in 1.class loader 2.linking 3. initializing 
+			1.class loader loads all dot class files of bootstram ,application classloader,3.extension 				class loader
+		2.runtime data areas 1.heap area stack area
+		3.execution enginer here the inter preter and jit compiler 
+
+Indentifiers and keywords : in java every key word have special meaning like data types have keyword and specifiers are the keywords
