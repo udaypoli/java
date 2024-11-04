@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="day4.Variables"/>
+    <fullyQualifiedTypeName name="day4.Methods"/>
+    <fullyQualifiedTypeName name="int"/>
+    <fullyQualifiedTypeName name="day4.PrintSumIntegers"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+</qualifiedTypeNameHistroy>

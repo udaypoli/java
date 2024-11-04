@@ -2,3 +2,5 @@ variables, methods,arrays
 variable : varaibles are the references which are pointing to the memory allocations
 methods are the functions which are doing process the data based on condition then give output
 arrays : array is fixed length data structure which is used to store the data in a same type
+		to ort array use Arrays.sort(arr);
+		to copy array into anoter array use System.arraycopy(p,0,c,0,p.length);
